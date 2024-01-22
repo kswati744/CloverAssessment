@@ -1,0 +1,1696 @@
+01/20/2024 08:39:59 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:39:59 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:40:02 PM - INFO - reached
+01/20/2024 08:40:02 PM - INFO - reached inside
+01/20/2024 08:40:02 PM - INFO - reached inside try
+01/20/2024 08:40:02 PM - INFO - Ended inside try
+01/20/2024 08:40:02 PM - INFO - Trying to press Enter
+01/20/2024 08:40:02 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:40:02 PM - INFO - Trying to get first result
+01/20/2024 08:40:02 PM - INFO - Error occurred:
+01/20/2024 08:41:43 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:41:43 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:41:45 PM - INFO - reached
+01/20/2024 08:41:45 PM - INFO - reached inside
+01/20/2024 08:41:45 PM - INFO - reached inside try
+01/20/2024 08:41:45 PM - INFO - Ended inside try
+01/20/2024 08:41:45 PM - INFO - Trying to press Enter
+01/20/2024 08:41:46 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:41:46 PM - INFO - Trying to get first result
+01/20/2024 08:44:04 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:44:04 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:44:08 PM - INFO - reached
+01/20/2024 08:44:08 PM - INFO - reached inside
+01/20/2024 08:44:08 PM - INFO - reached inside try
+01/20/2024 08:44:09 PM - INFO - Ended inside try
+01/20/2024 08:44:09 PM - INFO - Trying to press Enter
+01/20/2024 08:44:11 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:44:11 PM - INFO - Trying to get first result
+01/20/2024 08:44:12 PM - INFO - Trying to find search results
+01/20/2024 08:44:12 PM - INFO - Got results
+01/20/2024 08:44:12 PM - INFO - Got first search result
+01/20/2024 08:44:12 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/20/2024 08:47:00 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:47:00 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:47:03 PM - INFO - reached
+01/20/2024 08:47:03 PM - INFO - reached inside
+01/20/2024 08:47:03 PM - INFO - reached inside try
+01/20/2024 08:47:03 PM - INFO - Ended inside try
+01/20/2024 08:47:03 PM - INFO - Trying to press Enter
+01/20/2024 08:47:03 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:47:03 PM - INFO - Trying to get first result
+01/20/2024 08:47:05 PM - INFO - Trying to find search results
+01/20/2024 08:47:05 PM - INFO - Got results
+01/20/2024 08:47:05 PM - INFO - Got first search result
+01/20/2024 08:47:06 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/20/2024 08:54:43 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:54:43 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:54:46 PM - INFO - reached
+01/20/2024 08:54:46 PM - INFO - reached inside
+01/20/2024 08:54:46 PM - INFO - reached inside try
+01/20/2024 08:54:46 PM - INFO - Ended inside try
+01/20/2024 08:54:46 PM - INFO - Trying to press Enter
+01/20/2024 08:54:46 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:54:46 PM - INFO - Trying to get first result
+01/20/2024 08:59:23 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 08:59:23 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 08:59:28 PM - INFO - reached
+01/20/2024 08:59:28 PM - INFO - reached inside
+01/20/2024 08:59:28 PM - INFO - reached inside try
+01/20/2024 08:59:28 PM - INFO - Ended inside try
+01/20/2024 08:59:28 PM - INFO - Trying to press Enter
+01/20/2024 08:59:28 PM - INFO - Succesfully pressed Enter
+01/20/2024 08:59:28 PM - INFO - Trying to get first result
+01/20/2024 09:02:03 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:02:03 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:02:04 PM - INFO - reached
+01/20/2024 09:02:04 PM - INFO - reached inside
+01/20/2024 09:02:04 PM - INFO - reached inside try
+01/20/2024 09:02:04 PM - INFO - Ended inside try
+01/20/2024 09:02:04 PM - INFO - Trying to press Enter
+01/20/2024 09:02:04 PM - INFO - Succesfully pressed Enter
+01/20/2024 09:02:04 PM - INFO - Trying to get first result
+01/20/2024 09:05:32 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:05:32 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:05:34 PM - INFO - reached
+01/20/2024 09:05:34 PM - INFO - reached inside
+01/20/2024 09:05:34 PM - INFO - reached inside try
+01/20/2024 09:05:34 PM - INFO - Ended inside try
+01/20/2024 09:05:34 PM - INFO - Trying to press Enter
+01/20/2024 09:05:34 PM - INFO - Succesfully pressed Enter
+01/20/2024 09:05:34 PM - INFO - Trying to get first result
+01/20/2024 09:05:37 PM - INFO - Trying to find search results
+01/20/2024 09:05:37 PM - INFO - Got results
+01/20/2024 09:05:37 PM - INFO - Got first search result
+01/20/2024 09:05:37 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/20/2024 09:17:53 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:17:53 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:17:54 PM - INFO - reached
+01/20/2024 09:19:13 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:19:13 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:19:15 PM - INFO - reached
+01/20/2024 09:23:15 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:23:15 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:23:16 PM - INFO - reached
+01/20/2024 09:24:01 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:24:01 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:24:03 PM - INFO - reached
+01/20/2024 09:25:50 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:25:50 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:25:52 PM - INFO - reached
+01/20/2024 09:29:21 PM - INFO - *******************TestSearchEngine*********************
+01/20/2024 09:29:21 PM - INFO - Validating first returned item from Google Search Engine: 
+01/20/2024 09:29:23 PM - INFO - reached
+01/21/2024 01:19:18 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:19:18 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:19:22 AM - INFO - reached
+01/21/2024 01:19:22 AM - INFO - reached inside
+01/21/2024 01:19:22 AM - INFO - reached inside try
+01/21/2024 01:19:22 AM - INFO - Ended inside try
+01/21/2024 01:19:22 AM - INFO - Trying to press Enter
+01/21/2024 01:19:22 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:19:22 AM - INFO - Trying to get first result
+01/21/2024 01:19:25 AM - INFO - Trying to find search results
+01/21/2024 01:19:25 AM - INFO - Got results
+01/21/2024 01:19:25 AM - INFO - Got first search result
+01/21/2024 01:19:25 AM - INFO - {'Title': 'LIVE Q OR DIE', 'Link': 'https://liveqordie.com/'}
+01/21/2024 01:23:21 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:23:21 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:23:23 AM - INFO - reached
+01/21/2024 01:23:23 AM - INFO - reached inside
+01/21/2024 01:23:23 AM - INFO - reached inside try
+01/21/2024 01:23:33 AM - INFO - Error finding search box: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF745312142+3514994]
+	(No symbol) [0x00007FF744F30CE2]
+	(No symbol) [0x00007FF744DD76AA]
+	(No symbol) [0x00007FF744E21860]
+	(No symbol) [0x00007FF744E2197C]
+	(No symbol) [0x00007FF744E64EE7]
+	(No symbol) [0x00007FF744E4602F]
+	(No symbol) [0x00007FF744E628F6]
+	(No symbol) [0x00007FF744E45D93]
+	(No symbol) [0x00007FF744E14BDC]
+	(No symbol) [0x00007FF744E15C64]
+	GetHandleVerifier [0x00007FF74533E16B+3695259]
+	GetHandleVerifier [0x00007FF745396737+4057191]
+	GetHandleVerifier [0x00007FF74538E4E3+4023827]
+	GetHandleVerifier [0x00007FF7450604F9+689705]
+	(No symbol) [0x00007FF744F3C048]
+	(No symbol) [0x00007FF744F38044]
+	(No symbol) [0x00007FF744F381C9]
+	(No symbol) [0x00007FF744F288C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 01:23:33 AM - ERROR - Not able to enter text
+01/21/2024 01:23:33 AM - INFO - Trying to get first result
+01/21/2024 01:28:46 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:28:46 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:28:49 AM - INFO - reached
+01/21/2024 01:28:49 AM - INFO - reached inside
+01/21/2024 01:28:49 AM - INFO - reached inside try
+01/21/2024 01:28:49 AM - INFO - Ended inside try
+01/21/2024 01:28:49 AM - INFO - Trying to press Enter
+01/21/2024 01:28:50 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:28:50 AM - INFO - Trying to get first result
+01/21/2024 01:28:52 AM - INFO - Trying to find search results
+01/21/2024 01:28:52 AM - INFO - Got results
+01/21/2024 01:28:52 AM - INFO - Got first search result
+01/21/2024 01:28:52 AM - INFO - {'Title': 'LIVE Q OR DIE', 'Link': 'https://liveqordie.com/'}
+01/21/2024 01:29:53 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:29:53 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:29:55 AM - INFO - reached
+01/21/2024 01:29:55 AM - INFO - reached inside
+01/21/2024 01:29:56 AM - INFO - reached inside try
+01/21/2024 01:29:56 AM - INFO - Ended inside try
+01/21/2024 01:29:56 AM - INFO - Trying to press Enter
+01/21/2024 01:29:56 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:29:56 AM - INFO - Trying to get first result
+01/21/2024 01:29:58 AM - INFO - Trying to find search results
+01/21/2024 01:29:58 AM - INFO - Got results
+01/21/2024 01:29:58 AM - INFO - Got first search result
+01/21/2024 01:29:58 AM - INFO - {'Title': 'LIVE Q OR DIE', 'Link': 'https://liveqordie.com/'}
+01/21/2024 01:31:56 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:31:56 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:32:00 AM - INFO - reached
+01/21/2024 01:32:00 AM - INFO - reached inside
+01/21/2024 01:32:00 AM - INFO - reached inside try
+01/21/2024 01:32:00 AM - INFO - Ended inside try
+01/21/2024 01:32:00 AM - INFO - Trying to press Enter
+01/21/2024 01:32:02 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:32:02 AM - INFO - Trying to get first result
+01/21/2024 01:32:02 AM - INFO - Trying to find search results
+01/21/2024 01:32:02 AM - INFO - Got results
+01/21/2024 01:32:02 AM - INFO - Got first search result
+01/21/2024 01:32:02 AM - INFO - {'Title': 'LIVE Q OR DIE', 'Link': 'https://liveqordie.com/'}
+01/21/2024 01:34:49 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:34:49 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:34:51 AM - INFO - reached
+01/21/2024 01:34:51 AM - INFO - reached inside
+01/21/2024 01:34:51 AM - INFO - reached inside try
+01/21/2024 01:34:51 AM - INFO - Ended inside try
+01/21/2024 01:34:51 AM - INFO - Trying to press Enter
+01/21/2024 01:34:51 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:34:51 AM - INFO - Trying to get first result
+01/21/2024 01:34:54 AM - INFO - Trying to find search results
+01/21/2024 01:34:54 AM - INFO - Got results
+01/21/2024 01:34:54 AM - INFO - Got first search result
+01/21/2024 01:34:54 AM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 01:43:11 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:43:11 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:43:13 AM - INFO - reached
+01/21/2024 01:43:13 AM - INFO - reached inside
+01/21/2024 01:43:13 AM - INFO - reached inside try
+01/21/2024 01:43:13 AM - INFO - Ended inside try
+01/21/2024 01:43:13 AM - INFO - Trying to press Enter
+01/21/2024 01:43:13 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:43:13 AM - INFO - Trying to get first result
+01/21/2024 01:48:19 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:48:19 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:48:20 AM - INFO - reached
+01/21/2024 01:48:20 AM - INFO - reached inside
+01/21/2024 01:48:20 AM - INFO - reached inside try
+01/21/2024 01:48:21 AM - INFO - Ended inside try
+01/21/2024 01:48:21 AM - INFO - Trying to press Enter
+01/21/2024 01:48:21 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:48:21 AM - INFO - Trying to get first result
+01/21/2024 01:50:28 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:50:28 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:50:32 AM - INFO - reached
+01/21/2024 01:50:32 AM - INFO - reached inside
+01/21/2024 01:50:32 AM - INFO - reached inside try
+01/21/2024 01:50:32 AM - INFO - Ended inside try
+01/21/2024 01:51:29 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:51:29 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:51:31 AM - INFO - reached
+01/21/2024 01:51:31 AM - INFO - reached inside
+01/21/2024 01:51:31 AM - INFO - reached inside try
+01/21/2024 01:51:31 AM - INFO - Ended inside try
+01/21/2024 01:51:31 AM - INFO - Trying to press Enter
+01/21/2024 01:51:31 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:51:31 AM - INFO - Trying to get first result
+01/21/2024 01:54:24 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:54:24 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:54:26 AM - INFO - reached
+01/21/2024 01:54:26 AM - INFO - reached inside
+01/21/2024 01:54:26 AM - INFO - reached inside try
+01/21/2024 01:54:26 AM - INFO - Ended inside try
+01/21/2024 01:54:26 AM - INFO - Trying to press Enter
+01/21/2024 01:54:26 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:54:26 AM - INFO - Trying to get first result
+01/21/2024 01:55:12 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:55:12 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:55:14 AM - INFO - reached
+01/21/2024 01:55:14 AM - INFO - reached inside
+01/21/2024 01:55:14 AM - INFO - reached inside try
+01/21/2024 01:55:14 AM - INFO - Ended inside try
+01/21/2024 01:55:14 AM - INFO - Trying to press Enter
+01/21/2024 01:55:14 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:55:14 AM - INFO - Trying to get first result
+01/21/2024 01:55:38 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:55:38 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:55:39 AM - INFO - reached
+01/21/2024 01:55:39 AM - INFO - reached inside
+01/21/2024 01:55:39 AM - INFO - reached inside try
+01/21/2024 01:55:39 AM - INFO - Ended inside try
+01/21/2024 01:55:39 AM - INFO - Trying to press Enter
+01/21/2024 01:55:39 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:55:39 AM - INFO - Trying to get first result
+01/21/2024 01:58:37 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 01:58:37 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 01:58:38 AM - INFO - reached
+01/21/2024 01:58:38 AM - INFO - reached inside
+01/21/2024 01:58:38 AM - INFO - reached inside try
+01/21/2024 01:58:38 AM - INFO - Ended inside try
+01/21/2024 01:58:38 AM - INFO - Trying to press Enter
+01/21/2024 01:58:38 AM - INFO - Succesfully pressed Enter
+01/21/2024 01:58:38 AM - INFO - Trying to get first result
+01/21/2024 02:05:01 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:05:01 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:05:03 AM - INFO - reached
+01/21/2024 02:05:03 AM - INFO - reached inside
+01/21/2024 02:05:03 AM - INFO - reached inside try
+01/21/2024 02:05:03 AM - INFO - Ended inside try
+01/21/2024 02:05:03 AM - INFO - Trying to press Enter
+01/21/2024 02:05:03 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:05:03 AM - INFO - Trying to get first result
+01/21/2024 02:06:18 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:06:18 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:06:19 AM - INFO - reached
+01/21/2024 02:06:19 AM - INFO - reached inside
+01/21/2024 02:06:19 AM - INFO - reached inside try
+01/21/2024 02:06:19 AM - INFO - Ended inside try
+01/21/2024 02:06:19 AM - INFO - Trying to press Enter
+01/21/2024 02:06:19 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:06:19 AM - INFO - Trying to get first result
+01/21/2024 02:07:05 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:07:05 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:07:07 AM - INFO - reached
+01/21/2024 02:07:07 AM - INFO - reached inside
+01/21/2024 02:07:07 AM - INFO - reached inside try
+01/21/2024 02:07:07 AM - INFO - Ended inside try
+01/21/2024 02:07:07 AM - INFO - Trying to press Enter
+01/21/2024 02:07:07 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:07:07 AM - INFO - Trying to get first result
+01/21/2024 02:16:28 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:16:28 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:16:29 AM - INFO - reached
+01/21/2024 02:16:29 AM - INFO - reached inside
+01/21/2024 02:16:29 AM - INFO - reached inside try
+01/21/2024 02:16:29 AM - INFO - Ended inside try
+01/21/2024 02:16:29 AM - INFO - Trying to press Enter
+01/21/2024 02:16:30 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:16:30 AM - INFO - Trying to get first result
+01/21/2024 02:18:50 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:18:50 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:18:52 AM - INFO - reached
+01/21/2024 02:18:52 AM - INFO - reached inside
+01/21/2024 02:18:52 AM - INFO - reached inside try
+01/21/2024 02:18:52 AM - INFO - Ended inside try
+01/21/2024 02:18:52 AM - INFO - Trying to press Enter
+01/21/2024 02:18:52 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:18:52 AM - INFO - Trying to get first result
+01/21/2024 02:22:49 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:22:49 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:22:50 AM - INFO - reached
+01/21/2024 02:22:50 AM - INFO - reached inside
+01/21/2024 02:22:50 AM - INFO - reached inside try
+01/21/2024 02:22:51 AM - INFO - Ended inside try
+01/21/2024 02:22:51 AM - INFO - Trying to press Enter
+01/21/2024 02:22:51 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:22:51 AM - INFO - Trying to get first result
+01/21/2024 02:23:42 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:23:42 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:23:43 AM - INFO - reached
+01/21/2024 02:23:43 AM - INFO - reached inside
+01/21/2024 02:23:43 AM - INFO - reached inside try
+01/21/2024 02:23:44 AM - INFO - Ended inside try
+01/21/2024 02:23:44 AM - INFO - Trying to press Enter
+01/21/2024 02:23:44 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:23:44 AM - INFO - Trying to get first result
+01/21/2024 02:28:23 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:28:23 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:31:25 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:31:25 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:32:27 AM - INFO - reached
+01/21/2024 02:32:27 AM - INFO - reached inside
+01/21/2024 02:32:27 AM - INFO - reached inside try
+01/21/2024 02:32:27 AM - INFO - Ended inside try
+01/21/2024 02:32:27 AM - INFO - Trying to press Enter
+01/21/2024 02:32:28 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:32:28 AM - INFO - Trying to get first result
+01/21/2024 02:32:28 AM - INFO - Trying to find search results
+01/21/2024 02:32:28 AM - INFO - Got results
+01/21/2024 02:32:28 AM - INFO - Got first search result
+01/21/2024 02:34:19 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:34:19 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:34:20 AM - INFO - reached
+01/21/2024 02:34:20 AM - INFO - reached inside
+01/21/2024 02:34:20 AM - INFO - reached inside try
+01/21/2024 02:34:20 AM - INFO - Ended inside try
+01/21/2024 02:34:20 AM - INFO - Trying to press Enter
+01/21/2024 02:34:20 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:34:20 AM - INFO - Trying to get first result
+01/21/2024 02:35:55 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:35:55 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:35:57 AM - INFO - reached
+01/21/2024 02:35:57 AM - INFO - reached inside
+01/21/2024 02:35:57 AM - INFO - reached inside try
+01/21/2024 02:35:57 AM - INFO - Ended inside try
+01/21/2024 02:35:57 AM - INFO - Trying to press Enter
+01/21/2024 02:35:57 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:36:09 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:36:09 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:37:11 AM - INFO - reached
+01/21/2024 02:37:11 AM - INFO - reached inside
+01/21/2024 02:37:11 AM - INFO - reached inside try
+01/21/2024 02:37:11 AM - INFO - Ended inside try
+01/21/2024 02:37:11 AM - INFO - Trying to press Enter
+01/21/2024 02:37:12 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:38:07 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:38:07 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:38:49 AM - INFO - reached
+01/21/2024 02:38:49 AM - INFO - reached inside
+01/21/2024 02:38:49 AM - INFO - reached inside try
+01/21/2024 02:38:49 AM - INFO - Ended inside try
+01/21/2024 02:38:49 AM - INFO - Trying to press Enter
+01/21/2024 02:38:49 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:38:49 AM - INFO - Trying to get first result
+01/21/2024 02:39:32 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:39:32 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:40:13 AM - INFO - reached
+01/21/2024 02:40:13 AM - INFO - reached inside
+01/21/2024 02:40:13 AM - INFO - reached inside try
+01/21/2024 02:40:13 AM - INFO - Ended inside try
+01/21/2024 02:40:13 AM - INFO - Trying to press Enter
+01/21/2024 02:40:14 AM - INFO - Succesfully pressed Enter
+01/21/2024 02:40:14 AM - INFO - Trying to get first result
+01/21/2024 02:40:15 AM - INFO - Trying to find search results
+01/21/2024 02:40:15 AM - INFO - Got results
+01/21/2024 02:40:15 AM - INFO - Got first search result
+01/21/2024 03:03:07 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:03:07 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:03:51 AM - INFO - reached
+01/21/2024 03:03:51 AM - INFO - reached inside
+01/21/2024 03:03:51 AM - INFO - reached inside try
+01/21/2024 03:03:52 AM - INFO - Ended inside try
+01/21/2024 03:03:52 AM - INFO - Trying to press Enter
+01/21/2024 03:03:53 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:03:53 AM - INFO - Trying to get first result
+01/21/2024 03:03:53 AM - INFO - Trying to find search results
+01/21/2024 03:03:53 AM - INFO - Got results
+01/21/2024 03:03:53 AM - INFO - Got first search result
+01/21/2024 03:12:27 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:12:27 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:13:11 AM - INFO - reached
+01/21/2024 03:13:11 AM - INFO - reached inside
+01/21/2024 03:13:11 AM - INFO - reached inside try
+01/21/2024 03:13:12 AM - INFO - Ended inside try
+01/21/2024 03:13:12 AM - INFO - Trying to press Enter
+01/21/2024 03:13:12 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:13:12 AM - INFO - Trying to get first result
+01/21/2024 03:13:13 AM - INFO - Trying to find search results
+01/21/2024 03:13:13 AM - INFO - Got results
+01/21/2024 03:13:13 AM - INFO - Got first search result
+01/21/2024 03:15:22 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:15:22 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:16:05 AM - INFO - reached
+01/21/2024 03:16:05 AM - INFO - reached inside
+01/21/2024 03:16:05 AM - INFO - reached inside try
+01/21/2024 03:16:05 AM - INFO - Ended inside try
+01/21/2024 03:16:05 AM - INFO - Trying to press Enter
+01/21/2024 03:16:06 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:16:06 AM - INFO - Trying to get first result
+01/21/2024 03:16:06 AM - INFO - Trying to find search results
+01/21/2024 03:16:06 AM - INFO - Got results
+01/21/2024 03:16:06 AM - INFO - Got first search result
+01/21/2024 03:22:35 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:22:35 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:23:16 AM - INFO - reached
+01/21/2024 03:23:16 AM - INFO - reached inside
+01/21/2024 03:23:16 AM - INFO - reached inside try
+01/21/2024 03:23:16 AM - INFO - Ended inside try
+01/21/2024 03:23:16 AM - INFO - Trying to press Enter
+01/21/2024 03:23:17 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:23:17 AM - INFO - Trying to get first result
+01/21/2024 03:23:17 AM - INFO - Trying to find search results
+01/21/2024 03:23:17 AM - INFO - Got results
+01/21/2024 03:23:17 AM - INFO - Got first search result
+01/21/2024 03:24:26 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:24:26 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:25:07 AM - INFO - reached
+01/21/2024 03:25:07 AM - INFO - reached inside
+01/21/2024 03:25:07 AM - INFO - reached inside try
+01/21/2024 03:25:07 AM - INFO - Ended inside try
+01/21/2024 03:25:07 AM - INFO - Trying to press Enter
+01/21/2024 03:25:08 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:25:08 AM - INFO - Trying to get first result
+01/21/2024 03:25:08 AM - INFO - Trying to find search results
+01/21/2024 03:25:08 AM - INFO - Got results
+01/21/2024 03:25:08 AM - INFO - Got first search result
+01/21/2024 03:25:08 AM - INFO - {'Title': 'Clover\nhttps://www.clover.com'}
+01/21/2024 03:27:16 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:27:16 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:27:39 AM - INFO - reached
+01/21/2024 03:27:39 AM - INFO - reached inside
+01/21/2024 03:27:39 AM - INFO - reached inside try
+01/21/2024 03:27:39 AM - INFO - Ended inside try
+01/21/2024 03:27:39 AM - INFO - Trying to press Enter
+01/21/2024 03:27:39 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:27:39 AM - INFO - Trying to get first result
+01/21/2024 03:28:03 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:28:03 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:28:46 AM - INFO - reached
+01/21/2024 03:28:46 AM - INFO - reached inside
+01/21/2024 03:28:46 AM - INFO - reached inside try
+01/21/2024 03:28:46 AM - INFO - Ended inside try
+01/21/2024 03:28:46 AM - INFO - Trying to press Enter
+01/21/2024 03:28:47 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:28:47 AM - INFO - Trying to get first result
+01/21/2024 03:28:47 AM - INFO - Trying to find search results
+01/21/2024 03:28:47 AM - INFO - Got results
+01/21/2024 03:28:47 AM - INFO - Got first search result
+01/21/2024 03:28:48 AM - INFO - {'Title': 'Clover\nhttps://www.clover.com/dashboard/login', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:32:34 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:32:34 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:33:17 AM - INFO - reached
+01/21/2024 03:33:17 AM - INFO - reached inside
+01/21/2024 03:33:17 AM - INFO - reached inside try
+01/21/2024 03:33:18 AM - INFO - Ended inside try
+01/21/2024 03:33:18 AM - INFO - Trying to press Enter
+01/21/2024 03:33:20 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:33:20 AM - INFO - Trying to get first result
+01/21/2024 03:33:20 AM - INFO - Trying to find search results
+01/21/2024 03:33:20 AM - INFO - Got results
+01/21/2024 03:33:20 AM - INFO - Got first search result
+01/21/2024 03:33:20 AM - INFO - {'Title': 'Clover - Download', 'Link': 'https://clover.en.softonic.com/'}
+01/21/2024 03:40:52 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:40:52 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:41:33 AM - INFO - reached
+01/21/2024 03:41:33 AM - INFO - reached inside
+01/21/2024 03:41:33 AM - INFO - Error finding search box: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7CC702142+3514994]
+	(No symbol) [0x00007FF7CC320CE2]
+	(No symbol) [0x00007FF7CC1C76AA]
+	(No symbol) [0x00007FF7CC1A0AFD]
+	(No symbol) [0x00007FF7CC23CB1B]
+	(No symbol) [0x00007FF7CC25218F]
+	(No symbol) [0x00007FF7CC235D93]
+	(No symbol) [0x00007FF7CC204BDC]
+	(No symbol) [0x00007FF7CC205C64]
+	GetHandleVerifier [0x00007FF7CC72E16B+3695259]
+	GetHandleVerifier [0x00007FF7CC786737+4057191]
+	GetHandleVerifier [0x00007FF7CC77E4E3+4023827]
+	GetHandleVerifier [0x00007FF7CC4504F9+689705]
+	(No symbol) [0x00007FF7CC32C048]
+	(No symbol) [0x00007FF7CC328044]
+	(No symbol) [0x00007FF7CC3281C9]
+	(No symbol) [0x00007FF7CC3188C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 03:41:33 AM - ERROR - Not able to enter text
+01/21/2024 03:41:33 AM - INFO - Trying to get first result
+01/21/2024 03:41:55 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:41:55 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:42:37 AM - INFO - reached
+01/21/2024 03:42:37 AM - INFO - reached inside
+01/21/2024 03:42:37 AM - INFO - reached inside try
+01/21/2024 03:42:37 AM - INFO - Ended inside try
+01/21/2024 03:42:37 AM - INFO - Trying to press Enter
+01/21/2024 03:42:37 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:42:37 AM - INFO - Trying to get first result
+01/21/2024 03:42:38 AM - INFO - Trying to find search results
+01/21/2024 03:42:38 AM - INFO - Got results
+01/21/2024 03:42:38 AM - INFO - Got first search result
+01/21/2024 03:42:38 AM - INFO - {'Title': 'Clover - Download', 'Link': 'https://clover.en.softonic.com/'}
+01/21/2024 03:43:26 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:43:26 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:44:07 AM - INFO - reached
+01/21/2024 03:44:07 AM - INFO - reached inside
+01/21/2024 03:44:07 AM - INFO - reached inside try
+01/21/2024 03:44:07 AM - INFO - Ended inside try
+01/21/2024 03:44:07 AM - INFO - Trying to press Enter
+01/21/2024 03:44:07 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:44:07 AM - INFO - Trying to get first result
+01/21/2024 03:44:58 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:44:58 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:45:40 AM - INFO - reached
+01/21/2024 03:45:40 AM - INFO - reached inside
+01/21/2024 03:45:40 AM - INFO - reached inside try
+01/21/2024 03:45:40 AM - INFO - Ended inside try
+01/21/2024 03:45:40 AM - INFO - Trying to press Enter
+01/21/2024 03:45:40 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:45:40 AM - INFO - Trying to get first result
+01/21/2024 03:48:13 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:48:13 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:48:54 AM - INFO - reached
+01/21/2024 03:48:54 AM - INFO - reached inside
+01/21/2024 03:48:54 AM - INFO - reached inside try
+01/21/2024 03:48:54 AM - INFO - Ended inside try
+01/21/2024 03:48:54 AM - INFO - Trying to press Enter
+01/21/2024 03:48:54 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:48:54 AM - INFO - Trying to get first result
+01/21/2024 03:48:55 AM - INFO - Trying to find search results
+01/21/2024 03:48:55 AM - INFO - Got results
+01/21/2024 03:48:55 AM - INFO - Got first search result
+01/21/2024 03:48:55 AM - INFO - {'Title': 'All-in-one POS System | Accept Payments Anywhere', 'Link': 'javascript:void(0)'}
+01/21/2024 03:51:08 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:51:08 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:51:49 AM - INFO - reached
+01/21/2024 03:51:49 AM - INFO - reached inside
+01/21/2024 03:51:49 AM - INFO - reached inside try
+01/21/2024 03:51:49 AM - INFO - Ended inside try
+01/21/2024 03:51:49 AM - INFO - Trying to press Enter
+01/21/2024 03:51:50 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:51:50 AM - INFO - Trying to get first result
+01/21/2024 03:51:50 AM - INFO - Trying to find search results
+01/21/2024 03:51:50 AM - INFO - Got results
+01/21/2024 03:51:50 AM - INFO - Got first search result
+01/21/2024 03:51:50 AM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:52:15 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:52:15 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:52:56 AM - INFO - reached
+01/21/2024 03:52:56 AM - INFO - reached inside
+01/21/2024 03:52:56 AM - INFO - reached inside try
+01/21/2024 03:52:56 AM - INFO - Ended inside try
+01/21/2024 03:52:56 AM - INFO - Trying to press Enter
+01/21/2024 03:52:56 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:52:56 AM - INFO - Trying to get first result
+01/21/2024 03:53:56 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:53:56 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:54:37 AM - INFO - reached
+01/21/2024 03:54:37 AM - INFO - reached inside
+01/21/2024 03:54:37 AM - INFO - reached inside try
+01/21/2024 03:54:37 AM - INFO - Ended inside try
+01/21/2024 03:54:37 AM - INFO - Trying to press Enter
+01/21/2024 03:54:37 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:54:37 AM - INFO - Trying to get first result
+01/21/2024 03:56:36 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:56:36 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:57:17 AM - INFO - reached
+01/21/2024 03:57:17 AM - INFO - reached inside
+01/21/2024 03:57:17 AM - INFO - reached inside try
+01/21/2024 03:57:17 AM - INFO - Ended inside try
+01/21/2024 03:57:17 AM - INFO - Trying to press Enter
+01/21/2024 03:57:17 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:57:17 AM - INFO - Trying to get first result
+01/21/2024 03:58:28 AM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:58:28 AM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:59:09 AM - INFO - reached
+01/21/2024 03:59:09 AM - INFO - reached inside
+01/21/2024 03:59:09 AM - INFO - reached inside try
+01/21/2024 03:59:09 AM - INFO - Ended inside try
+01/21/2024 03:59:09 AM - INFO - Trying to press Enter
+01/21/2024 03:59:09 AM - INFO - Succesfully pressed Enter
+01/21/2024 03:59:09 AM - INFO - Trying to get first result
+01/21/2024 02:50:52 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:50:52 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:51:36 PM - INFO - reached
+01/21/2024 02:51:36 PM - INFO - reached inside
+01/21/2024 02:51:36 PM - INFO - reached inside try
+01/21/2024 02:51:37 PM - INFO - Ended inside try
+01/21/2024 02:51:37 PM - INFO - Trying to press Enter
+01/21/2024 02:51:37 PM - INFO - Succesfully pressed Enter
+01/21/2024 02:51:37 PM - INFO - Trying to get first result
+01/21/2024 02:52:39 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:52:39 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:52:41 PM - INFO - reached
+01/21/2024 02:52:41 PM - INFO - reached inside
+01/21/2024 02:52:41 PM - INFO - reached inside try
+01/21/2024 02:52:41 PM - INFO - Ended inside try
+01/21/2024 02:52:41 PM - INFO - Trying to press Enter
+01/21/2024 02:52:41 PM - INFO - Succesfully pressed Enter
+01/21/2024 02:52:41 PM - INFO - Trying to get first result
+01/21/2024 02:53:40 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:53:40 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:53:43 PM - INFO - reached
+01/21/2024 02:53:43 PM - INFO - reached inside
+01/21/2024 02:53:43 PM - INFO - reached inside try
+01/21/2024 02:53:44 PM - INFO - Ended inside try
+01/21/2024 02:53:44 PM - INFO - Trying to press Enter
+01/21/2024 02:53:44 PM - INFO - Succesfully pressed Enter
+01/21/2024 02:53:44 PM - INFO - Trying to get first result
+01/21/2024 02:54:52 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:54:52 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:55:05 PM - INFO - reached
+01/21/2024 02:55:05 PM - INFO - reached inside
+01/21/2024 02:55:05 PM - INFO - reached inside try
+01/21/2024 02:55:05 PM - INFO - Ended inside try
+01/21/2024 02:55:05 PM - INFO - Trying to press Enter
+01/21/2024 02:55:05 PM - INFO - Succesfully pressed Enter
+01/21/2024 02:55:05 PM - INFO - Trying to get first result
+01/21/2024 02:55:06 PM - INFO - Trying to find search results
+01/21/2024 02:55:06 PM - INFO - Got results
+01/21/2024 02:55:06 PM - INFO - Got first search result
+01/21/2024 02:55:06 PM - INFO - {'Title': 'Clover - Wikipedia', 'Link': 'https://en.wikipedia.org/wiki/Clover'}
+01/21/2024 02:57:15 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 02:57:15 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 02:57:27 PM - INFO - reached
+01/21/2024 02:57:27 PM - INFO - reached inside
+01/21/2024 02:57:27 PM - INFO - reached inside try
+01/21/2024 02:57:27 PM - INFO - Ended inside try
+01/21/2024 02:57:27 PM - INFO - Trying to press Enter
+01/21/2024 02:57:33 PM - INFO - Succesfully pressed Enter
+01/21/2024 02:57:33 PM - INFO - Trying to get first result
+01/21/2024 02:57:34 PM - INFO - Trying to find search results
+01/21/2024 02:57:34 PM - INFO - Got results
+01/21/2024 02:57:34 PM - INFO - Got first search result
+01/21/2024 02:57:34 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:00:57 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:00:57 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:01:10 PM - INFO - reached
+01/21/2024 03:01:10 PM - INFO - reached inside
+01/21/2024 03:01:10 PM - INFO - reached inside try
+01/21/2024 03:01:10 PM - INFO - Ended inside try
+01/21/2024 03:01:10 PM - INFO - Trying to press Enter
+01/21/2024 03:01:16 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:01:16 PM - INFO - Trying to get first result
+01/21/2024 03:01:16 PM - INFO - Trying to find search results
+01/21/2024 03:01:16 PM - INFO - Got results
+01/21/2024 03:01:16 PM - INFO - Got first search result
+01/21/2024 03:01:16 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:25:50 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:25:50 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:25:54 PM - INFO - reached
+01/21/2024 03:25:54 PM - INFO - reached inside
+01/21/2024 03:26:05 PM - INFO - Error finding search box: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="input"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8ED2142+3514994]
+	(No symbol) [0x00007FF6C8AF0CE2]
+	(No symbol) [0x00007FF6C89976AA]
+	(No symbol) [0x00007FF6C89E1860]
+	(No symbol) [0x00007FF6C89E197C]
+	(No symbol) [0x00007FF6C8A24EE7]
+	(No symbol) [0x00007FF6C8A0602F]
+	(No symbol) [0x00007FF6C8A228F6]
+	(No symbol) [0x00007FF6C8A05D93]
+	(No symbol) [0x00007FF6C89D4BDC]
+	(No symbol) [0x00007FF6C89D5C64]
+	GetHandleVerifier [0x00007FF6C8EFE16B+3695259]
+	GetHandleVerifier [0x00007FF6C8F56737+4057191]
+	GetHandleVerifier [0x00007FF6C8F4E4E3+4023827]
+	GetHandleVerifier [0x00007FF6C8C204F9+689705]
+	(No symbol) [0x00007FF6C8AFC048]
+	(No symbol) [0x00007FF6C8AF8044]
+	(No symbol) [0x00007FF6C8AF81C9]
+	(No symbol) [0x00007FF6C8AE88C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 03:26:05 PM - ERROR - Not able to enter text
+01/21/2024 03:26:05 PM - INFO - Trying to get first result
+01/21/2024 03:26:20 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:26:20 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:26:31 PM - INFO - reached
+01/21/2024 03:26:31 PM - INFO - reached inside
+01/21/2024 03:26:31 PM - INFO - reached inside try
+01/21/2024 03:26:32 PM - INFO - Ended inside try
+01/21/2024 03:26:32 PM - INFO - Trying to press Enter
+01/21/2024 03:26:37 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:26:37 PM - INFO - Trying to get first result
+01/21/2024 03:27:23 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:27:23 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:27:26 PM - INFO - reached
+01/21/2024 03:27:26 PM - INFO - reached inside
+01/21/2024 03:27:36 PM - INFO - Error finding search box: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="input"]"}
+  (Session info: chrome=120.0.6099.225); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8ED2142+3514994]
+	(No symbol) [0x00007FF6C8AF0CE2]
+	(No symbol) [0x00007FF6C89976AA]
+	(No symbol) [0x00007FF6C89E1860]
+	(No symbol) [0x00007FF6C89E197C]
+	(No symbol) [0x00007FF6C8A24EE7]
+	(No symbol) [0x00007FF6C8A0602F]
+	(No symbol) [0x00007FF6C8A228F6]
+	(No symbol) [0x00007FF6C8A05D93]
+	(No symbol) [0x00007FF6C89D4BDC]
+	(No symbol) [0x00007FF6C89D5C64]
+	GetHandleVerifier [0x00007FF6C8EFE16B+3695259]
+	GetHandleVerifier [0x00007FF6C8F56737+4057191]
+	GetHandleVerifier [0x00007FF6C8F4E4E3+4023827]
+	GetHandleVerifier [0x00007FF6C8C204F9+689705]
+	(No symbol) [0x00007FF6C8AFC048]
+	(No symbol) [0x00007FF6C8AF8044]
+	(No symbol) [0x00007FF6C8AF81C9]
+	(No symbol) [0x00007FF6C8AE88C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 03:27:36 PM - ERROR - Not able to enter text
+01/21/2024 03:27:36 PM - INFO - Trying to get first result
+01/21/2024 03:29:40 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:29:40 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:29:43 PM - INFO - reached
+01/21/2024 03:29:43 PM - INFO - reached inside
+01/21/2024 03:29:43 PM - INFO - reached inside try
+01/21/2024 03:29:43 PM - INFO - Ended inside try
+01/21/2024 03:29:43 PM - INFO - Trying to press Enter
+01/21/2024 03:29:43 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:29:43 PM - INFO - Trying to get first result
+01/21/2024 03:29:46 PM - INFO - Trying to find search results
+01/21/2024 03:29:46 PM - INFO - Got results
+01/21/2024 03:29:46 PM - INFO - Got first search result
+01/21/2024 03:29:46 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:30:36 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:30:36 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:30:48 PM - INFO - reached
+01/21/2024 03:30:48 PM - INFO - reached inside
+01/21/2024 03:30:48 PM - INFO - reached inside try
+01/21/2024 03:30:48 PM - INFO - Ended inside try
+01/21/2024 03:30:48 PM - INFO - Trying to press Enter
+01/21/2024 03:30:53 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:30:53 PM - INFO - Trying to get first result
+01/21/2024 03:32:03 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:32:03 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:32:10 PM - INFO - reached
+01/21/2024 03:32:10 PM - INFO - reached inside
+01/21/2024 03:32:10 PM - INFO - reached inside try
+01/21/2024 03:32:10 PM - INFO - Ended inside try
+01/21/2024 03:32:10 PM - INFO - Trying to press Enter
+01/21/2024 03:32:15 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:32:15 PM - INFO - Trying to get first result
+01/21/2024 03:32:58 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:32:58 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:33:04 PM - INFO - reached
+01/21/2024 03:33:04 PM - INFO - reached inside
+01/21/2024 03:33:04 PM - INFO - reached inside try
+01/21/2024 03:33:04 PM - INFO - Ended inside try
+01/21/2024 03:33:04 PM - INFO - Trying to press Enter
+01/21/2024 03:33:04 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:33:04 PM - INFO - Trying to get first result
+01/21/2024 03:36:15 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:36:15 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:36:26 PM - INFO - reached
+01/21/2024 03:36:26 PM - INFO - reached inside
+01/21/2024 03:36:26 PM - INFO - reached inside try
+01/21/2024 03:36:27 PM - INFO - Ended inside try
+01/21/2024 03:36:27 PM - INFO - Trying to press Enter
+01/21/2024 03:36:33 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:36:33 PM - INFO - Trying to get first result
+01/21/2024 03:36:33 PM - INFO - Trying to find search results
+01/21/2024 03:36:33 PM - INFO - Got results
+01/21/2024 03:36:33 PM - INFO - Got first search result
+01/21/2024 03:36:33 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:38:04 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:38:04 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:38:07 PM - INFO - reached
+01/21/2024 03:38:07 PM - INFO - reached inside
+01/21/2024 03:38:07 PM - INFO - reached inside try
+01/21/2024 03:38:07 PM - INFO - Ended inside try
+01/21/2024 03:38:07 PM - INFO - Trying to press Enter
+01/21/2024 03:38:09 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:38:09 PM - INFO - Trying to get first result
+01/21/2024 03:38:10 PM - INFO - Trying to find search results
+01/21/2024 03:38:10 PM - INFO - Got results
+01/21/2024 03:38:10 PM - INFO - Got first search result
+01/21/2024 03:38:10 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:38:14 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:38:14 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:38:25 PM - INFO - reached
+01/21/2024 03:38:25 PM - INFO - reached inside
+01/21/2024 03:38:25 PM - INFO - reached inside try
+01/21/2024 03:38:27 PM - INFO - Ended inside try
+01/21/2024 03:38:27 PM - INFO - Trying to press Enter
+01/21/2024 03:38:33 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:38:33 PM - INFO - Trying to get first result
+01/21/2024 03:38:33 PM - INFO - Trying to find search results
+01/21/2024 03:38:33 PM - INFO - Got results
+01/21/2024 03:38:33 PM - INFO - Got first search result
+01/21/2024 03:38:33 PM - INFO - {'Title': 'Clover POS Systems Near You | #1 Recommended Clover POS', 'Link': 'javascript:void(0)'}
+01/21/2024 03:39:49 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:39:49 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:39:52 PM - INFO - reached
+01/21/2024 03:39:52 PM - INFO - reached inside
+01/21/2024 03:39:52 PM - INFO - reached inside try
+01/21/2024 03:39:52 PM - INFO - Ended inside try
+01/21/2024 03:39:52 PM - INFO - Trying to press Enter
+01/21/2024 03:39:52 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:39:52 PM - INFO - Trying to get first result
+01/21/2024 03:39:55 PM - INFO - Trying to find search results
+01/21/2024 03:39:55 PM - INFO - Got results
+01/21/2024 03:39:55 PM - INFO - Got first search result
+01/21/2024 03:39:55 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:39:57 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:39:57 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:40:09 PM - INFO - reached
+01/21/2024 03:40:09 PM - INFO - reached inside
+01/21/2024 03:40:09 PM - INFO - reached inside try
+01/21/2024 03:40:09 PM - INFO - Ended inside try
+01/21/2024 03:40:09 PM - INFO - Trying to press Enter
+01/21/2024 03:40:15 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:40:15 PM - INFO - Trying to get first result
+01/21/2024 03:40:15 PM - INFO - Trying to find search results
+01/21/2024 03:40:15 PM - INFO - Got results
+01/21/2024 03:40:15 PM - INFO - Got first search result
+01/21/2024 03:40:15 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:45:01 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:45:01 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:45:03 PM - INFO - reached
+01/21/2024 03:45:03 PM - INFO - reached inside
+01/21/2024 03:45:03 PM - INFO - reached inside try
+01/21/2024 03:45:04 PM - INFO - Ended inside try
+01/21/2024 03:45:04 PM - INFO - Trying to press Enter
+01/21/2024 03:45:04 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:45:04 PM - INFO - Trying to get first result
+01/21/2024 03:45:06 PM - INFO - Trying to find search results
+01/21/2024 03:45:06 PM - INFO - Got results
+01/21/2024 03:45:06 PM - INFO - Got first search result
+01/21/2024 03:45:06 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:45:09 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:45:09 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:45:21 PM - INFO - reached
+01/21/2024 03:45:21 PM - INFO - reached inside
+01/21/2024 03:45:21 PM - INFO - reached inside try
+01/21/2024 03:45:21 PM - INFO - Ended inside try
+01/21/2024 03:45:21 PM - INFO - Trying to press Enter
+01/21/2024 03:45:26 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:45:26 PM - INFO - Trying to get first result
+01/21/2024 03:45:49 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:45:49 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:45:52 PM - INFO - reached
+01/21/2024 03:45:52 PM - INFO - reached inside
+01/21/2024 03:45:52 PM - INFO - reached inside try
+01/21/2024 03:45:52 PM - INFO - Ended inside try
+01/21/2024 03:45:52 PM - INFO - Trying to press Enter
+01/21/2024 03:45:53 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:45:53 PM - INFO - Trying to get first result
+01/21/2024 03:45:55 PM - INFO - Trying to find search results
+01/21/2024 03:45:55 PM - INFO - Got results
+01/21/2024 03:45:55 PM - INFO - Got first search result
+01/21/2024 03:45:55 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:45:58 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:45:58 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:46:10 PM - INFO - reached
+01/21/2024 03:46:10 PM - INFO - reached inside
+01/21/2024 03:46:10 PM - INFO - reached inside try
+01/21/2024 03:46:10 PM - INFO - Ended inside try
+01/21/2024 03:46:10 PM - INFO - Trying to press Enter
+01/21/2024 03:46:15 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:46:15 PM - INFO - Trying to get first result
+01/21/2024 03:46:59 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:46:59 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:47:01 PM - INFO - reached
+01/21/2024 03:47:01 PM - INFO - reached inside
+01/21/2024 03:47:01 PM - INFO - reached inside try
+01/21/2024 03:47:01 PM - INFO - Ended inside try
+01/21/2024 03:47:01 PM - INFO - Trying to press Enter
+01/21/2024 03:47:02 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:47:02 PM - INFO - Trying to get first result
+01/21/2024 03:47:04 PM - INFO - Trying to find search results
+01/21/2024 03:47:04 PM - INFO - Got results
+01/21/2024 03:47:04 PM - INFO - Got first search result
+01/21/2024 03:47:04 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:47:06 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:47:06 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:47:18 PM - INFO - reached
+01/21/2024 03:47:18 PM - INFO - reached inside
+01/21/2024 03:47:18 PM - INFO - reached inside try
+01/21/2024 03:47:18 PM - INFO - Ended inside try
+01/21/2024 03:47:18 PM - INFO - Trying to press Enter
+01/21/2024 03:47:19 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:47:19 PM - INFO - Trying to get first result
+01/21/2024 03:47:19 PM - INFO - Trying to find search results
+01/21/2024 03:47:19 PM - INFO - Got results
+01/21/2024 03:47:19 PM - INFO - Got first search result
+01/21/2024 03:47:19 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:47:30 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:47:30 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:47:33 PM - INFO - reached
+01/21/2024 03:47:33 PM - INFO - reached inside
+01/21/2024 03:47:33 PM - INFO - reached inside try
+01/21/2024 03:47:33 PM - INFO - Ended inside try
+01/21/2024 03:47:33 PM - INFO - Trying to press Enter
+01/21/2024 03:47:33 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:47:33 PM - INFO - Trying to get first result
+01/21/2024 03:47:36 PM - INFO - Trying to find search results
+01/21/2024 03:47:36 PM - INFO - Got results
+01/21/2024 03:47:36 PM - INFO - Got first search result
+01/21/2024 03:47:36 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:47:37 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:47:37 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:47:50 PM - INFO - reached
+01/21/2024 03:47:50 PM - INFO - reached inside
+01/21/2024 03:47:50 PM - INFO - reached inside try
+01/21/2024 03:47:50 PM - INFO - Ended inside try
+01/21/2024 03:47:50 PM - INFO - Trying to press Enter
+01/21/2024 03:47:50 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:47:50 PM - INFO - Trying to get first result
+01/21/2024 03:48:38 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:48:38 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:48:39 PM - INFO - reached
+01/21/2024 03:48:39 PM - INFO - reached inside
+01/21/2024 03:48:39 PM - INFO - reached inside try
+01/21/2024 03:48:40 PM - INFO - Ended inside try
+01/21/2024 03:48:40 PM - INFO - Trying to press Enter
+01/21/2024 03:48:40 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:48:40 PM - INFO - Trying to get first result
+01/21/2024 03:48:42 PM - INFO - Trying to find search results
+01/21/2024 03:48:42 PM - INFO - Got results
+01/21/2024 03:48:42 PM - INFO - Got first search result
+01/21/2024 03:48:42 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:48:45 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:48:45 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:48:56 PM - INFO - reached
+01/21/2024 03:48:56 PM - INFO - reached inside
+01/21/2024 03:48:57 PM - INFO - reached inside try
+01/21/2024 03:48:57 PM - INFO - Ended inside try
+01/21/2024 03:48:57 PM - INFO - Trying to press Enter
+01/21/2024 03:49:08 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:49:08 PM - INFO - Trying to get first result
+01/21/2024 03:49:08 PM - INFO - Trying to find search results
+01/21/2024 03:49:08 PM - INFO - Got results
+01/21/2024 03:49:08 PM - INFO - Got first search result
+01/21/2024 03:49:08 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 03:49:18 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:49:18 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:49:21 PM - INFO - reached
+01/21/2024 03:49:21 PM - INFO - reached inside
+01/21/2024 03:49:21 PM - INFO - reached inside try
+01/21/2024 03:49:21 PM - INFO - Ended inside try
+01/21/2024 03:49:21 PM - INFO - Trying to press Enter
+01/21/2024 03:49:24 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:49:24 PM - INFO - Trying to get first result
+01/21/2024 03:49:24 PM - INFO - Trying to find search results
+01/21/2024 03:49:24 PM - INFO - Got results
+01/21/2024 03:49:24 PM - INFO - Got first search result
+01/21/2024 03:49:24 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 03:49:27 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 03:49:27 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 03:49:39 PM - INFO - reached
+01/21/2024 03:49:39 PM - INFO - reached inside
+01/21/2024 03:49:39 PM - INFO - reached inside try
+01/21/2024 03:49:39 PM - INFO - Ended inside try
+01/21/2024 03:49:39 PM - INFO - Trying to press Enter
+01/21/2024 03:49:50 PM - INFO - Succesfully pressed Enter
+01/21/2024 03:49:50 PM - INFO - Trying to get first result
+01/21/2024 03:49:50 PM - INFO - Trying to find search results
+01/21/2024 03:49:50 PM - INFO - Got results
+01/21/2024 03:49:50 PM - INFO - Got first search result
+01/21/2024 03:49:50 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 04:43:13 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 04:43:13 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 04:43:15 PM - INFO - reached
+01/21/2024 04:43:15 PM - INFO - reached inside
+01/21/2024 04:43:15 PM - INFO - reached inside try
+01/21/2024 04:43:16 PM - INFO - Ended inside try
+01/21/2024 04:43:16 PM - INFO - Trying to press Enter
+01/21/2024 04:43:16 PM - INFO - Succesfully pressed Enter
+01/21/2024 04:43:16 PM - INFO - Trying to get first result
+01/21/2024 04:43:19 PM - INFO - Trying to find search results
+01/21/2024 04:43:19 PM - INFO - Got results
+01/21/2024 04:43:19 PM - INFO - Got first search result
+01/21/2024 04:43:19 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 04:43:26 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 04:43:26 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 04:43:44 PM - INFO - reached
+01/21/2024 04:43:44 PM - INFO - reached inside
+01/21/2024 04:44:01 PM - INFO - reached inside try
+01/21/2024 04:44:03 PM - INFO - Ended inside try
+01/21/2024 04:44:03 PM - INFO - Trying to press Enter
+01/21/2024 04:44:18 PM - INFO - Succesfully pressed Enter
+01/21/2024 04:44:18 PM - INFO - Trying to get first result
+01/21/2024 04:44:19 PM - INFO - Trying to find search results
+01/21/2024 04:44:19 PM - INFO - Got results
+01/21/2024 04:44:19 PM - INFO - Got first search result
+01/21/2024 04:44:19 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 05:55:46 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 05:55:46 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 05:55:50 PM - INFO - reached
+01/21/2024 05:55:50 PM - INFO - reached inside
+01/21/2024 05:55:50 PM - INFO - reached inside try
+01/21/2024 05:55:51 PM - INFO - Text 'Clover' entered in search box on Google
+01/21/2024 05:55:51 PM - INFO - Enter key pressed
+01/21/2024 05:55:51 PM - INFO - Trying to get first result
+01/21/2024 05:55:54 PM - INFO - Trying to find search results
+01/21/2024 05:55:54 PM - INFO - Got results
+01/21/2024 05:55:54 PM - INFO - Got first search result
+01/21/2024 05:55:54 PM - INFO - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 06:17:11 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 06:17:11 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 06:17:16 PM - INFO - reached
+01/21/2024 06:17:16 PM - INFO - reached inside
+01/21/2024 06:17:16 PM - INFO - reached inside try
+01/21/2024 06:17:26 PM - INFO - Error finding search box on Bing: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF60B712142+3514994]
+	(No symbol) [0x00007FF60B330CE2]
+	(No symbol) [0x00007FF60B1D76AA]
+	(No symbol) [0x00007FF60B221860]
+	(No symbol) [0x00007FF60B22197C]
+	(No symbol) [0x00007FF60B264EE7]
+	(No symbol) [0x00007FF60B24602F]
+	(No symbol) [0x00007FF60B2628F6]
+	(No symbol) [0x00007FF60B245D93]
+	(No symbol) [0x00007FF60B214BDC]
+	(No symbol) [0x00007FF60B215C64]
+	GetHandleVerifier [0x00007FF60B73E16B+3695259]
+	GetHandleVerifier [0x00007FF60B796737+4057191]
+	GetHandleVerifier [0x00007FF60B78E4E3+4023827]
+	GetHandleVerifier [0x00007FF60B4604F9+689705]
+	(No symbol) [0x00007FF60B33C048]
+	(No symbol) [0x00007FF60B338044]
+	(No symbol) [0x00007FF60B3381C9]
+	(No symbol) [0x00007FF60B3288C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 06:17:26 PM - ERROR - Not able to enter text
+01/21/2024 06:17:26 PM - INFO - Trying to get first result
+01/21/2024 06:17:37 PM - ERROR - Error retrieving search results from Bing: Message: 
+
+01/21/2024 06:17:53 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 06:17:53 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 06:17:55 PM - INFO - reached
+01/21/2024 06:17:55 PM - INFO - reached inside
+01/21/2024 06:17:55 PM - INFO - reached inside try
+01/21/2024 06:17:56 PM - INFO - Text 'Clover' entered in search box on Bing
+01/21/2024 06:17:56 PM - INFO - Enter key pressed
+01/21/2024 06:17:56 PM - INFO - Trying to get first result
+01/21/2024 06:18:06 PM - ERROR - Error retrieving search results from Bing: Message: 
+
+01/21/2024 06:20:13 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 06:20:13 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 06:20:16 PM - INFO - reached
+01/21/2024 06:20:16 PM - INFO - reached inside
+01/21/2024 06:20:16 PM - INFO - reached inside try
+01/21/2024 06:20:16 PM - INFO - Text 'Clover' entered in search box on Bing
+01/21/2024 06:20:16 PM - INFO - Enter key pressed
+01/21/2024 06:20:16 PM - INFO - Trying to get first result
+01/21/2024 06:20:26 PM - ERROR - Error retrieving search results from Bing: Message: 
+
+01/21/2024 06:20:51 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 06:20:51 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 06:20:58 PM - INFO - reached
+01/21/2024 06:20:58 PM - INFO - reached inside
+01/21/2024 06:20:58 PM - INFO - reached inside try
+01/21/2024 06:20:58 PM - INFO - Text 'Clover' entered in search box on Bing
+01/21/2024 06:20:58 PM - INFO - Enter key pressed
+01/21/2024 06:20:58 PM - INFO - Trying to get first result
+01/21/2024 06:21:08 PM - ERROR - Error retrieving search results from Bing: Message: 
+
+01/21/2024 06:22:16 PM - INFO - *******************TestSearchEngine*********************
+01/21/2024 06:22:16 PM - INFO - Validating first returned item from Google Search Engine: 
+01/21/2024 06:22:23 PM - INFO - reached
+01/21/2024 06:22:23 PM - INFO - reached inside
+01/21/2024 06:22:23 PM - INFO - reached inside try
+01/21/2024 06:22:23 PM - INFO - Text 'Clover' entered in search box on Bing
+01/21/2024 06:22:29 PM - INFO - Enter key pressed
+01/21/2024 06:22:29 PM - INFO - Trying to get first result
+01/21/2024 06:22:30 PM - INFO - Trying to find search results
+01/21/2024 06:22:30 PM - INFO - Got results
+01/21/2024 06:22:30 PM - INFO - Got first search result
+01/21/2024 06:22:30 PM - INFO - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 06:42:54 PM - INFO - Test.py - test_google_search - 20 - *******************TestSearchEngine*********************
+01/21/2024 06:42:54 PM - INFO - Test.py - test_google_search - 21 - Validating first returned item from Google Search Engine: 
+01/21/2024 06:42:57 PM - INFO - Test.py - test_google_search - 26 - reached
+01/21/2024 06:42:57 PM - INFO - Search.py - input_text_search_box - 20 - reached inside
+01/21/2024 06:42:57 PM - INFO - Search.py - input_text_search_box - 23 - reached inside try
+01/21/2024 06:42:57 PM - INFO - Search.py - input_text_search_box - 28 - Text 'Clover' entered in search box on Google
+01/21/2024 06:43:03 PM - INFO - Search.py - press_enter_keyboard - 39 - Enter key pressed
+01/21/2024 06:43:03 PM - INFO - Test.py - test_google_search - 34 - Trying to get first result
+01/21/2024 06:43:06 PM - INFO - Search.py - get_first_search_result - 53 - Trying to find search results
+01/21/2024 06:43:06 PM - INFO - Search.py - get_first_search_result - 55 - Got results
+01/21/2024 06:43:06 PM - INFO - Search.py - get_first_search_result - 61 - Got first search result
+01/21/2024 06:43:06 PM - INFO - Test.py - test_google_search - 37 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 06:43:10 PM - INFO - Test.py - test_Bing_search - 42 - *******************TestSearchEngine*********************
+01/21/2024 06:43:10 PM - INFO - Test.py - test_Bing_search - 43 - Validating first returned item from Bing Search Engine: 
+01/21/2024 06:43:17 PM - INFO - Test.py - test_Bing_search - 48 - reached
+01/21/2024 06:43:17 PM - INFO - Search.py - input_text_search_box - 20 - reached inside
+01/21/2024 06:43:17 PM - INFO - Search.py - input_text_search_box - 23 - reached inside try
+01/21/2024 06:43:17 PM - INFO - Search.py - input_text_search_box - 28 - Text 'Clover' entered in search box on Bing
+01/21/2024 06:43:23 PM - INFO - Search.py - press_enter_keyboard - 39 - Enter key pressed
+01/21/2024 06:43:23 PM - INFO - Test.py - test_Bing_search - 56 - Trying to get first result
+01/21/2024 06:43:23 PM - INFO - Search.py - get_first_search_result - 53 - Trying to find search results
+01/21/2024 06:43:23 PM - INFO - Search.py - get_first_search_result - 55 - Got results
+01/21/2024 06:43:23 PM - INFO - Search.py - get_first_search_result - 61 - Got first search result
+01/21/2024 06:43:23 PM - INFO - Test.py - test_Bing_search - 59 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 07:07:08 PM - INFO - Test.py - test_google_search - 20 - *******************TestSearchEngine*********************
+01/21/2024 07:07:08 PM - INFO - Test.py - test_google_search - 21 - Validating first returned item from Google Search Engine: 
+01/21/2024 07:07:12 PM - INFO - Test.py - test_google_search - 26 - reached
+01/21/2024 07:07:12 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 07:07:12 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 07:07:12 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 07:07:17 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 07:07:17 PM - INFO - Test.py - test_google_search - 34 - Trying to get first result
+01/21/2024 07:07:21 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 07:07:21 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 07:07:21 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 07:07:21 PM - INFO - Test.py - test_google_search - 37 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 07:07:28 PM - INFO - Test.py - test_Bing_search - 42 - *******************TestSearchEngine*********************
+01/21/2024 07:07:28 PM - INFO - Test.py - test_Bing_search - 43 - Validating first returned item from Bing Search Engine: 
+01/21/2024 07:07:36 PM - INFO - Test.py - test_Bing_search - 48 - reached
+01/21/2024 07:07:36 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 07:07:36 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 07:07:36 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 07:07:42 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 07:07:42 PM - INFO - Test.py - test_Bing_search - 56 - Trying to get first result
+01/21/2024 07:07:42 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 07:07:42 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 07:07:42 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 07:07:42 PM - INFO - Test.py - test_Bing_search - 59 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 08:05:52 PM - INFO - Test.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 08:05:52 PM - INFO - Test.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 08:05:55 PM - INFO - Test.py - test_google_search - 27 - reached
+01/21/2024 08:05:55 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 08:05:55 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 08:05:56 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 08:06:01 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 08:06:01 PM - INFO - Test.py - test_google_search - 36 - Trying to get first result
+01/21/2024 08:06:05 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 08:06:05 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 08:06:05 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 08:06:05 PM - INFO - Test.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 08:06:14 PM - INFO - Test.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 08:06:14 PM - INFO - Test.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 08:06:22 PM - INFO - Test.py - test_Bing_search - 51 - reached
+01/21/2024 08:06:22 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 08:06:22 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 08:06:22 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 08:06:28 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 08:06:28 PM - INFO - Test.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 08:06:28 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 08:06:28 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 08:06:28 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 08:06:29 PM - INFO - Test.py - test_Bing_search - 63 - {'Title': 'Best Clover Inventory App | Accept Payments Anywhere', 'Link': 'javascript:void(0)'}
+01/21/2024 10:38:46 PM - INFO - Test.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:38:46 PM - INFO - Test.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:38:49 PM - INFO - Test.py - test_google_search - 27 - reached
+01/21/2024 10:38:49 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:38:49 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:38:49 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:38:55 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:38:55 PM - INFO - Test.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:38:57 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:38:58 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:38:58 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:38:58 PM - INFO - Test.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:39:04 PM - INFO - Test.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:39:04 PM - INFO - Test.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:39:12 PM - INFO - Test.py - test_Bing_search - 51 - reached
+01/21/2024 10:39:12 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:39:12 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:39:12 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:39:17 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:39:17 PM - INFO - Test.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:39:19 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:39:19 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:39:19 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:39:19 PM - INFO - Test.py - test_Bing_search - 63 - {'Title': 'All-in-one POS System | Accept Payments Anywhere', 'Link': 'javascript:void(0)'}
+01/21/2024 10:39:50 PM - INFO - Test.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:39:50 PM - INFO - Test.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:39:53 PM - INFO - Test.py - test_google_search - 27 - reached
+01/21/2024 10:39:53 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:39:53 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:39:53 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:39:59 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:39:59 PM - INFO - Test.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:40:02 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:40:02 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:40:02 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:40:02 PM - INFO - Test.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:40:06 PM - INFO - Test.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:40:06 PM - INFO - Test.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:40:14 PM - INFO - Test.py - test_Bing_search - 51 - reached
+01/21/2024 10:40:14 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:40:14 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:40:15 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:40:20 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:40:20 PM - INFO - Test.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:40:21 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:40:21 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:40:21 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:40:21 PM - INFO - Test.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 10:49:00 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:49:00 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:49:04 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:49:04 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:49:04 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:49:04 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:49:09 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:49:09 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:49:13 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:49:13 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:49:13 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:49:13 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:49:18 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:49:18 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:49:25 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:49:25 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:49:25 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:49:25 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:49:30 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:49:30 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:49:40 PM - ERROR - Search.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 10:50:03 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:50:03 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:50:05 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:50:05 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:50:05 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:50:05 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:50:10 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:50:10 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:50:13 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:50:13 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:50:13 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:50:13 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:50:17 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:50:17 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:50:24 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:50:24 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:50:24 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:50:25 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:50:30 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:50:30 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:50:31 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:50:31 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:50:31 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:50:31 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Credit Card Processing for Small Businesses | POS Solutions', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:52:02 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:52:02 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:52:05 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:52:05 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:52:05 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:52:05 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:52:10 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:52:10 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:52:14 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:52:14 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:52:14 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:52:14 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:52:18 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:52:18 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:52:26 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:52:26 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:52:26 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:52:26 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:52:31 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:52:31 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:52:41 PM - ERROR - Search.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 10:54:02 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:54:02 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:54:06 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:54:06 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:54:06 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:54:06 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:54:16 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:54:16 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:54:19 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:54:19 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:54:19 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:54:19 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:54:23 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:54:23 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:54:29 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:54:29 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:54:29 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:54:30 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:54:41 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:54:41 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:54:41 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:54:41 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:54:41 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:54:41 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 10:54:58 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:54:58 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:55:01 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:55:01 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:55:01 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:55:02 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:55:12 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:55:12 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:55:14 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:55:14 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:55:14 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:55:14 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:55:19 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:55:19 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:55:26 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:55:26 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:55:26 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:55:26 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:55:36 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:55:36 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:55:46 PM - ERROR - Search.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 10:56:26 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 10:56:26 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 10:56:29 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 10:56:29 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:56:29 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:56:29 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 10:56:38 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:56:38 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 10:56:38 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:56:38 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:56:38 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:56:38 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 10:56:43 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 10:56:43 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 10:56:49 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 10:56:49 PM - INFO - Search.py - input_text_search_box - 29 - reached inside
+01/21/2024 10:56:49 PM - INFO - Search.py - input_text_search_box - 32 - reached inside try
+01/21/2024 10:56:49 PM - INFO - Search.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 10:56:55 PM - INFO - Search.py - press_enter_keyboard - 48 - Enter key pressed
+01/21/2024 10:56:55 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 10:56:55 PM - INFO - Search.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 10:56:55 PM - INFO - Search.py - get_first_search_result - 64 - Got results
+01/21/2024 10:56:55 PM - INFO - Search.py - get_first_search_result - 70 - Got first search result
+01/21/2024 10:56:55 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 11:03:36 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:03:36 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:03:40 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:03:40 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:03:40 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:03:40 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:03:45 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:03:45 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:03:45 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:03:45 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:03:45 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:03:45 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:03:50 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:03:50 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:03:56 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:03:56 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:03:56 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:03:57 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:04:02 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:04:02 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:04:02 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:04:02 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:04:02 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:04:02 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'All-in-one POS System | Accept Payments Anywhere', 'Link': 'javascript:void(0)'}
+01/21/2024 11:04:20 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:04:20 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:04:23 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:04:23 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:04:23 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:04:23 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:04:32 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:04:32 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:04:32 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:04:32 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:04:32 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:04:32 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:04:36 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:04:36 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:04:44 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:04:44 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:04:44 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:04:44 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:04:49 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:04:49 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:04:59 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:05:20 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:05:20 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:05:23 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:05:23 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:05:23 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:05:23 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:05:28 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:05:28 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:05:28 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:05:28 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:05:28 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:05:28 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:05:32 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:05:32 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:05:39 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:05:39 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:05:39 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:05:39 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:05:45 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:05:45 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:05:45 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:05:45 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:05:45 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:05:45 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 11:09:35 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:09:35 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:09:38 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:09:38 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:09:38 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:09:38 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:09:43 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:09:43 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:09:43 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:09:43 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:09:43 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:09:43 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:09:48 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:09:48 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:09:54 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:09:54 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:09:54 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:09:54 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:09:59 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:09:59 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:10:09 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:10:34 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:10:34 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:10:37 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:10:37 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:10:37 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:10:37 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:10:42 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:10:42 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:10:43 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:10:43 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:10:43 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:10:43 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:10:47 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:10:47 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:10:53 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:10:53 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:10:53 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:10:54 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:10:59 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:10:59 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:11:09 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:11:57 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:11:57 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:11:59 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:11:59 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:11:59 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:11:59 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:12:00 PM - INFO - searchEngine.py - press_enter_key - 47 - Enter key pressed
+01/21/2024 11:12:03 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:12:04 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:12:04 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:12:04 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:12:04 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:12:08 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:12:08 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:12:14 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:12:14 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:12:14 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:12:14 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:12:14 PM - INFO - searchEngine.py - press_enter_key - 47 - Enter key pressed
+01/21/2024 11:12:17 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:12:27 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:19:23 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:19:23 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:19:26 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:19:26 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:19:26 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:19:26 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:19:28 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:19:28 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:19:31 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:19:31 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:19:31 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:19:31 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:19:36 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:19:36 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:19:42 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:19:42 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:19:42 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:19:42 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:19:44 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:19:44 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:19:54 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:22:25 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:22:25 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:22:28 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:22:28 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:22:28 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:22:28 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:22:30 PM - INFO - searchEngine.py - press_enter_key - 50 - Enter key pressed
+01/21/2024 11:22:30 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:22:41 PM - ERROR - searchEngine.py - get_first_search_result - 80 - Error retrieving search results from Google: Message: 
+
+01/21/2024 11:22:45 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:22:45 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:22:51 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:22:51 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:22:51 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:22:51 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:22:53 PM - INFO - searchEngine.py - press_enter_key - 50 - Enter key pressed
+01/21/2024 11:22:53 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:23:03 PM - ERROR - searchEngine.py - get_first_search_result - 80 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:23:57 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:23:57 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:23:59 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:23:59 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:23:59 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:23:59 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Google
+01/21/2024 11:24:06 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:24:06 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:24:08 PM - INFO - searchEngine.py - get_first_search_result - 62 - Trying to find search results
+01/21/2024 11:24:08 PM - INFO - searchEngine.py - get_first_search_result - 64 - Got results
+01/21/2024 11:24:08 PM - INFO - searchEngine.py - get_first_search_result - 70 - Got first search result
+01/21/2024 11:24:08 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:24:12 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:24:12 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:24:18 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:24:18 PM - INFO - searchEngine.py - input_text_search_box - 29 - reached inside
+01/21/2024 11:24:18 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside try
+01/21/2024 11:24:18 PM - INFO - searchEngine.py - input_text_search_box - 37 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:24:24 PM - INFO - searchEngine.py - press_enter_key - 48 - Enter key pressed
+01/21/2024 11:24:24 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:24:35 PM - ERROR - searchEngine.py - get_first_search_result - 78 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:33:37 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:33:37 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:33:39 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:33:39 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:33:39 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:33:39 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:33:39 PM - ERROR - searchEngine.py - press_enter_key - 53 - Error pressing enter key: WebDriver.find_element() takes from 1 to 3 positional arguments but 7 were given
+01/21/2024 11:33:39 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:33:50 PM - ERROR - searchEngine.py - get_first_search_result - 81 - Error retrieving search results from Google: Message: 
+
+01/21/2024 11:33:54 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:33:54 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:34:01 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:34:01 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:34:01 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:34:01 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:34:01 PM - ERROR - searchEngine.py - press_enter_key - 53 - Error pressing enter key: WebDriver.find_element() takes from 1 to 3 positional arguments but 7 were given
+01/21/2024 11:34:01 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:34:11 PM - ERROR - searchEngine.py - get_first_search_result - 81 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:34:45 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:34:45 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:34:49 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:34:49 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:34:49 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:34:49 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:34:49 PM - ERROR - searchEngine.py - press_enter_key - 53 - Error pressing enter key: WebDriver.find_element() takes from 1 to 3 positional arguments but 7 were given
+01/21/2024 11:34:49 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:34:59 PM - ERROR - searchEngine.py - get_first_search_result - 81 - Error retrieving search results from Google: Message: 
+
+01/21/2024 11:35:04 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:35:04 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:35:10 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:35:10 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:35:10 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:35:10 PM - INFO - searchEngine.py - input_text_search_box - 43 - Error finding search box on Bing: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.225)
+Stacktrace:
+	GetHandleVerifier [0x00007FF714ED2142+3514994]
+	(No symbol) [0x00007FF714AF0CE2]
+	(No symbol) [0x00007FF7149976AA]
+	(No symbol) [0x00007FF714970AFD]
+	(No symbol) [0x00007FF714A0CB1B]
+	(No symbol) [0x00007FF714A2218F]
+	(No symbol) [0x00007FF714A05D93]
+	(No symbol) [0x00007FF7149D4BDC]
+	(No symbol) [0x00007FF7149D5C64]
+	GetHandleVerifier [0x00007FF714EFE16B+3695259]
+	GetHandleVerifier [0x00007FF714F56737+4057191]
+	GetHandleVerifier [0x00007FF714F4E4E3+4023827]
+	GetHandleVerifier [0x00007FF714C204F9+689705]
+	(No symbol) [0x00007FF714AFC048]
+	(No symbol) [0x00007FF714AF8044]
+	(No symbol) [0x00007FF714AF81C9]
+	(No symbol) [0x00007FF714AE88C4]
+	BaseThreadInitThunk [0x00007FFF3C65257D+29]
+	RtlUserThreadStart [0x00007FFF3E90AA58+40]
+
+01/21/2024 11:36:31 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:36:31 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:36:33 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:36:33 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:36:33 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:36:33 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:36:38 PM - INFO - searchEngine.py - press_enter_key - 51 - Enter key pressed
+01/21/2024 11:36:38 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:36:38 PM - INFO - searchEngine.py - get_first_search_result - 65 - Trying to find search results
+01/21/2024 11:36:38 PM - INFO - searchEngine.py - get_first_search_result - 67 - Got results
+01/21/2024 11:36:38 PM - INFO - searchEngine.py - get_first_search_result - 73 - Got first search result
+01/21/2024 11:36:38 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:36:42 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:36:42 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:36:48 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:36:48 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:36:48 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:36:48 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:36:53 PM - INFO - searchEngine.py - press_enter_key - 51 - Enter key pressed
+01/21/2024 11:36:53 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:37:04 PM - ERROR - searchEngine.py - get_first_search_result - 81 - Error retrieving search results from Bing: Message: 
+
+01/21/2024 11:42:01 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:42:01 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:42:05 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:42:05 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:42:05 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:42:05 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:42:13 PM - INFO - searchEngine.py - press_enter_key - 53 - Enter key pressed
+01/21/2024 11:42:13 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:42:13 PM - INFO - searchEngine.py - get_first_search_result - 67 - Trying to find search results
+01/21/2024 11:42:13 PM - INFO - searchEngine.py - get_first_search_result - 69 - Got results
+01/21/2024 11:42:13 PM - INFO - searchEngine.py - get_first_search_result - 75 - Got first search result
+01/21/2024 11:42:13 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:42:17 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:42:17 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:42:24 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:42:24 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:42:24 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:42:24 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:42:32 PM - INFO - searchEngine.py - press_enter_key - 53 - Enter key pressed
+01/21/2024 11:42:32 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:42:32 PM - INFO - searchEngine.py - get_first_search_result - 67 - Trying to find search results
+01/21/2024 11:42:32 PM - INFO - searchEngine.py - get_first_search_result - 69 - Got results
+01/21/2024 11:42:32 PM - INFO - searchEngine.py - get_first_search_result - 75 - Got first search result
+01/21/2024 11:42:32 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Credit Card Processing for Small Businesses | POS Solutions', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:42:49 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:42:49 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:42:52 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:42:52 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:42:52 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:42:53 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:43:01 PM - INFO - searchEngine.py - press_enter_key - 53 - Enter key pressed
+01/21/2024 11:43:01 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:43:01 PM - INFO - searchEngine.py - get_first_search_result - 67 - Trying to find search results
+01/21/2024 11:43:01 PM - INFO - searchEngine.py - get_first_search_result - 69 - Got results
+01/21/2024 11:43:01 PM - INFO - searchEngine.py - get_first_search_result - 75 - Got first search result
+01/21/2024 11:43:01 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:43:05 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:43:05 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:43:13 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:43:13 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:43:13 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:43:13 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:43:19 PM - INFO - searchEngine.py - press_enter_key - 53 - Enter key pressed
+01/21/2024 11:43:19 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:43:19 PM - INFO - searchEngine.py - get_first_search_result - 67 - Trying to find search results
+01/21/2024 11:43:19 PM - INFO - searchEngine.py - get_first_search_result - 69 - Got results
+01/21/2024 11:43:19 PM - INFO - searchEngine.py - get_first_search_result - 75 - Got first search result
+01/21/2024 11:43:19 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
