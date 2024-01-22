@@ -1694,3 +1694,25 @@ Stacktrace:
 01/21/2024 11:43:19 PM - INFO - searchEngine.py - get_first_search_result - 69 - Got results
 01/21/2024 11:43:19 PM - INFO - searchEngine.py - get_first_search_result - 75 - Got first search result
 01/21/2024 11:43:19 PM - INFO - testSearchResults.py - test_Bing_search - 63 - {'Title': 'Clover Dashboard', 'Link': 'https://www.clover.com/dashboard/login'}
+01/21/2024 11:53:42 PM - INFO - testSearchResults.py - test_google_search - 21 - *******************TestSearchEngine*********************
+01/21/2024 11:53:42 PM - INFO - testSearchResults.py - test_google_search - 22 - Validating first returned item from Google Search Engine: 
+01/21/2024 11:53:45 PM - INFO - testSearchResults.py - test_google_search - 27 - reached
+01/21/2024 11:53:45 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:53:45 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:53:45 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Google
+01/21/2024 11:53:53 PM - INFO - searchEngine.py - press_enter_key - 52 - Enter key pressed
+01/21/2024 11:53:53 PM - INFO - testSearchResults.py - test_google_search - 36 - Trying to get first result
+01/21/2024 11:53:53 PM - INFO - searchEngine.py - get_first_search_result - 66 - Trying to find search results
+01/21/2024 11:53:53 PM - INFO - searchEngine.py - get_first_search_result - 68 - Got results
+01/21/2024 11:53:53 PM - INFO - searchEngine.py - get_first_search_result - 74 - Got first search result
+01/21/2024 11:53:53 PM - INFO - testSearchResults.py - test_google_search - 39 - {'Title': 'Clover: Credit Card Processing for Small Businesses | POS ...', 'Link': 'https://www.clover.com/'}
+01/21/2024 11:53:58 PM - INFO - testSearchResults.py - test_Bing_search - 45 - *******************TestSearchEngine*********************
+01/21/2024 11:53:58 PM - INFO - testSearchResults.py - test_Bing_search - 46 - Validating first returned item from Bing Search Engine: 
+01/21/2024 11:54:05 PM - INFO - testSearchResults.py - test_Bing_search - 51 - reached
+01/21/2024 11:54:05 PM - INFO - searchEngine.py - input_text_search_box - 32 - reached inside
+01/21/2024 11:54:05 PM - INFO - searchEngine.py - input_text_search_box - 35 - reached inside try
+01/21/2024 11:54:05 PM - INFO - searchEngine.py - input_text_search_box - 40 - Text 'Clover' entered in search box on Bing
+01/21/2024 11:54:10 PM - INFO - searchEngine.py - press_enter_key - 52 - Enter key pressed
+01/21/2024 11:54:10 PM - INFO - testSearchResults.py - test_Bing_search - 60 - Trying to get first result
+01/21/2024 11:54:21 PM - ERROR - searchEngine.py - get_first_search_result - 82 - Error retrieving search results from Bing: Message: 
+
